@@ -1,1 +1,1 @@
-print("hohoho")
+print("안녕하세요")
