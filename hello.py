@@ -1,1 +1,2 @@
-print("こんにちは")
+for i in range(10):
+    print("こんにちは")
