@@ -1,2 +1,1 @@
-for i in range(10):
-    print("こんにちは")
+print("Hello World! Github")
